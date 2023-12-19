@@ -140,7 +140,7 @@ We've also added a few keyboard shortcuts. You can remove these from your keybin
   * In the PDF-TeX Sync support section, set the "Preset" to Visual Studio Code
 * MikTex:
   * MikTex is a TeX distribution which you can [download from the internet](https://miktex.org/download).
-  * If you already have a TeX distribution installed on your computer, you likely do not need to install MikTex as well. (Although, I personally had TinyTeX installed on my computer, and I still had to install MikTex for VSCode.)
+  * If you already have a TeX distribution installed on your computer, you do not need to install MiKTeX as well.
 * Pandoc:
   * Pandoc allows you to knit .Rmd files to PDF files. You can [install the latest release from the internet](https://pandoc.org/installing.html).
 
