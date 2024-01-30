@@ -162,7 +162,13 @@ You should then be able to see these in the Keyboard Shortcuts menu or if you cl
 
 ## 5. Managing Profiles
 
+Profiles allow you to build custom configurations in VSCode! You can set up multiple profiles, and you can customize each one.
+
 ### Creating Your Own Profile
+* Click the settings menu
+* Click Profiles
+* Click Create Profile
+* Give it a name, click enter
 
 ### Exporting Your Own Profile
 
@@ -176,6 +182,11 @@ Once you have made your own personalized settings, you can export your own profi
 * Copy the link to share!
 
 ### Deleting Profiles
+* Click the settings menu
+* Click Profiles
+* Click Delete Profile
+* Check off the profiles that you would like to delete
+* Click OK
 
 ## Contact Us:
 This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like! If you have additional extensions, settings, or keybindings you'd like to share, please do so!
