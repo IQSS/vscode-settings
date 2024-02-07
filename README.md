@@ -43,7 +43,7 @@ Unzip the download (mine was called "VSCode-darwin-universal.zip), and then clic
 Congrats, you've downloaded VSCode!
 
 ## 2. Importing Our Recommended Profile
-* Inside VSCode, click on the settings icon in the bottom-left corner
+* Inside VSCode, click on the settings icon in the bottom-left corner (it looks like a gear!)
 * Select "Profiles (*Name of your current profile*)" &#8592; this should be "Profiles (Default)" if you are doing this for the first time
 * Select "Import Profile"
 * Copy and paste the following URL into the search bar pop-up that says "Provide Profile Template URL": https://vscode.dev/profile/github/2f5c3eb559798c7c449adac706742807.
