@@ -125,6 +125,7 @@ We've also added a few keyboard shortcuts. You can remove these from your keybin
 * "Shift+Option+b": When you are inside a .tex file, this will open the accompanying output PDF in an external viewer. We recommend using Skim, which you can set up with sync so that it will refresh whenever you save/build the .tex file.
 * "Option+Command+f": When you are typing, this will toggle on/off whether inline suggestons will appear. Once you toggle on/off, you need to continue typing to see the change take effect.
 * "Option+Command+h": When you have text highlighted, this will toggle on/off whether repeat occurrences of that word will also be highlighted.
+* "Option+Command+q": When you are typing, this will toggle on/off whether dropdown spelling suggestions will appear. 
 
 ## 3. Recommended Dependencies
 * GitHub:
