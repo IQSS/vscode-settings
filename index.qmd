@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+The following is a quick starter guide designed to get you acquainted with Overleaf, and online editor for $\LaTeX$.

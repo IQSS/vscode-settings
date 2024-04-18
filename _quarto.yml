@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Overleaf Starter Guide"
+  author: "IQSS"
+  date: "last-modified"
+  page-navigation: true
+  search: true
+  favicon: images/favicon.png
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - part: "Getting Started with Overleaf"
+      chapters:
+        - sign_up.qmd
+        - create_project.qmd
+        - interface.qmd
+        - writing.qmd
+        - collaborating.qmd
+        - exporting.qmd
+    - part: "Advanced Features & Tips"
+      chapters:
+        - templates.qmd
+        - bibs.qmd
+        - packages.qmd
+        - best_prac.qmd
+        - resources.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+    code-link: true
+    callout-appearance: simple
+
+execute:
+  freeze: auto
+
