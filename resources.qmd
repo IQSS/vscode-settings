@@ -1,3 +1,0 @@
-# Learning Resources {.sec-resources}
-
-Overleaf offers extensive documentation, tutorials, and examples to help you learn LaTeX and make the most of its features. Additionally, there are numerous online resources, forums, and communities dedicated to LaTeX where you can seek help and advice.
