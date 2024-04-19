@@ -2,14 +2,14 @@
 
 Profiles allow you to build custom configurations in VSCode! You can set up multiple profiles, and you can customize each one.
 
-### Creating Your Own Profile
+## Creating Your Own Profile
 
 * Click the settings menu
 * Click Profiles
 * Click Create Profile
 * Give it a name, click enter
 
-### Exporting Your Own Profile
+## Exporting Your Own Profile
 
 Once you have made your own personalized settings, you can export your own profile to share with others.
 
@@ -21,7 +21,7 @@ Once you have made your own personalized settings, you can export your own profi
 * Select the GitHub gist option
 * Copy the link to share!
 
-### Deleting Profiles
+## Deleting Profiles
 
 * Click the settings menu
 * Click Profiles
