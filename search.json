@@ -113,7 +113,40 @@
     "href": "profiles.html",
     "title": "8  Managing Profiles",
     "section": "",
-    "text": "Profiles allow you to build custom configurations in VSCode! You can set up multiple profiles, and you can customize each one.\n\n8.0.1 Creating Your Own Profile\n\nClick the settings menu\nClick Profiles\nClick Create Profile\nGive it a name, click enter\n\n\n\n8.0.2 Exporting Your Own Profile\nOnce you have made your own personalized settings, you can export your own profile to share with others.\n\nClick the settings menu\nClick Profiles\nClick Export Profile\nClick the blue “Export” button\nGive it a name, click enter\nSelect the GitHub gist option\nCopy the link to share!\n\n\n\n8.0.3 Deleting Profiles\n\nClick the settings menu\nClick Profiles\nClick Delete Profile\nCheck off the profiles that you would like to delete\nClick OK",
+    "text": "8.1 Creating Your Own Profile",
+    "crumbs": [
+      "Customizing Your Own VSCode",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Managing Profiles</span>"
+    ]
+  },
+  {
+    "objectID": "profiles.html#creating-your-own-profile",
+    "href": "profiles.html#creating-your-own-profile",
+    "title": "8  Managing Profiles",
+    "section": "",
+    "text": "Click the settings menu\nClick Profiles\nClick Create Profile\nGive it a name, click enter",
+    "crumbs": [
+      "Customizing Your Own VSCode",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Managing Profiles</span>"
+    ]
+  },
+  {
+    "objectID": "profiles.html#exporting-your-own-profile",
+    "href": "profiles.html#exporting-your-own-profile",
+    "title": "8  Managing Profiles",
+    "section": "8.2 Exporting Your Own Profile",
+    "text": "8.2 Exporting Your Own Profile\nOnce you have made your own personalized settings, you can export your own profile to share with others.\n\nClick the settings menu\nClick Profiles\nClick Export Profile\nClick the blue “Export” button\nGive it a name, click enter\nSelect the GitHub gist option\nCopy the link to share!",
+    "crumbs": [
+      "Customizing Your Own VSCode",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Managing Profiles</span>"
+    ]
+  },
+  {
+    "objectID": "profiles.html#deleting-profiles",
+    "href": "profiles.html#deleting-profiles",
+    "title": "8  Managing Profiles",
+    "section": "8.3 Deleting Profiles",
+    "text": "8.3 Deleting Profiles\n\nClick the settings menu\nClick Profiles\nClick Delete Profile\nCheck off the profiles that you would like to delete\nClick OK",
     "crumbs": [
       "Customizing Your Own VSCode",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Managing Profiles</span>"
