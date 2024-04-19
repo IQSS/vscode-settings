@@ -157,7 +157,7 @@
     "href": "external_res.html",
     "title": "9  External Resources",
     "section": "",
-    "text": "TO DO TO DO",
+    "text": "Resources include VSCode’s introduction page, documentation, and tips and tricks.\nAdditional resources include various YouTube tutorials or online guides, such as Jia Jia’s Fast Guide on Writing LaTeX with LaTeX Workshop in VS Code.\nLastly, Google is your best friend! If you want to do something, googling how to do it is your best go-to. Sites like Stack Overflow, Reddit, and Quora all have active user communities that ask questions and support each other.",
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>External Resources</span>"
