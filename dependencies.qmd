@@ -1,3 +1,20 @@
 # Dependencies {.sec-installation}
 
-TO DO TO DO
+In order to use VSCode effectively, there are some additional programs or applications that we also recommend you install or use on your own.
+
+* GitHub:
+  * We recommend using GitHub. If you do not already have a GitHub account, we recommend following the [instructions about GitHub from Matt Blackwell](https://gov51.mattblackwell.org/assignments/00-r-intro/).
+* Copilot:
+  * One of the main benefits of VSCode is its integration with GitHub Copilot, an AI pair programmer which helps you to more effectively and quickly write code.
+  * Please use [these instructions](https://docs.github.com/en/copilot/quickstart) for setting up your GitHub Copilot account.
+* Skim:
+  * Skim is a PDF viewer, which you can [download from the internet](https://skim-app.sourceforge.io/). We recommend setting this as your default PDF viewer.
+  * Once Skim is open, go to the top toolbar menu. Select Skim > Settings.
+  * In the settings pane that opens, click Sync on the top right.
+  * Check off the boxes for "Check for file changes" and "Reload automatically"
+  * In the PDF-TeX Sync support section, set the "Preset" to Visual Studio Code
+* MikTex:
+  * MikTex is a TeX distribution which you can [download from the internet](https://miktex.org/download).
+  * If you already have a TeX distribution installed on your computer, you do not need to install MiKTeX as well.
+* Pandoc:
+  * Pandoc allows you to knit .Rmd files to PDF files. You can [install the latest release from the internet](https://pandoc.org/installing.html).
