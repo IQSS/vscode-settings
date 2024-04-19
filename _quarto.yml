@@ -12,31 +12,20 @@ book:
     - index.qmd
     - part: "Installation"
       chapters:
-        - overview.qmd
-        - computer_installer.qmd
-        - dependencies.qmd
         - application.qmd
         - configuration.qmd
-    - part: "Opening Emacs for the First Time"
+        - dependencies.qmd
+    - part: "Our Recommended Profile"
       chapters:
-        - install_packages.qmd
-        - copilot_login.qmd
-    - part: "Getting Started"
+        - extensions.qmd
+        - settings.qmd
+        - shortcuts.qmd
+    - part: "Customizing Your Own VSCode"
       chapters:
-        - tutorial.qmd
-        - important_keys.qmd
-        - layout.qmd
-        - creating.qmd
-        - moving.qmd
-        - editing.qmd
-        - saving.qmd
-    - part: "Hazards"
-      chapters:
-        - problems.qmd
+        - customizing.qmd
+        - profiles.qmd
     - part: "Resources"
       chapters:
-        - commands.qmd
-        - glossary.qmd
         - external_res.qmd
     - references.qmd
 
