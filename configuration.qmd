@@ -1,3 +1,16 @@
 # IQSS Configuration {.sec-installation}
 
-TO DO TO DO
+To import our recommended profile:
+
+* Inside VSCode, click on the settings icon in the bottom-left corner (it looks like a gear!)
+* Select "Profiles (*Name of your current profile*)" &#8592; this should be "Profiles (Default)" if you are doing this for the first time
+* Select "Import Profile"
+* Copy and paste the following URL into the search bar pop-up that says "Provide Profile Template URL": https://vscode.dev/profile/github/2f5c3eb559798c7c449adac706742807.
+  * If you were to follow this link in a browser, it would bring you to VSCode's Preview in a browser. More information about their browser version [here](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev).
+* A pane on the left will pop up. Leave everything checked off, and select the blue "Create Profile" button
+* Enter a name for this profile in the text pop-up, such as "IQSS Recs"
+* Leave everything checked off, and select the blue "Create" button
+
+Now the settings icon should have a short descriptor bubble attached, e.g. "IQ", and if you click on it, you should see that it now says "Profiles (*Profile Name*)", such as "Profiles (IQSS Rec)"
+
+Congrats, you've imported our recommended profile!
