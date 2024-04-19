@@ -1,3 +1,30 @@
 # Managing Profiles {.sec-custom}
 
-TO DO TO DO
+Profiles allow you to build custom configurations in VSCode! You can set up multiple profiles, and you can customize each one.
+
+### Creating Your Own Profile
+
+* Click the settings menu
+* Click Profiles
+* Click Create Profile
+* Give it a name, click enter
+
+### Exporting Your Own Profile
+
+Once you have made your own personalized settings, you can export your own profile to share with others.
+
+* Click the settings menu
+* Click Profiles
+* Click Export Profile
+* Click the blue "Export" button
+* Give it a name, click enter
+* Select the GitHub gist option
+* Copy the link to share!
+
+### Deleting Profiles
+
+* Click the settings menu
+* Click Profiles
+* Click Delete Profile
+* Check off the profiles that you would like to delete
+* Click OK
