@@ -10,25 +10,25 @@
     ]
   },
   {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "1  Overview",
+    "objectID": "application.html",
+    "href": "application.html",
+    "title": "1  Emacs Application",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
       "Installation",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Emacs Application</span>"
     ]
   },
   {
-    "objectID": "computer_installer.html",
-    "href": "computer_installer.html",
-    "title": "2  Installing Necessary Packages on Your Computer",
+    "objectID": "configuration.html",
+    "href": "configuration.html",
+    "title": "2  IQSS Configuration",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
       "Installation",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Installing Necessary Packages on Your Computer</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>IQSS Configuration</span>"
     ]
   },
   {
@@ -43,168 +43,69 @@
     ]
   },
   {
-    "objectID": "application.html",
-    "href": "application.html",
-    "title": "4  Emacs Application",
+    "objectID": "extensions.html",
+    "href": "extensions.html",
+    "title": "4  Extensions",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
-      "Installation",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Emacs Application</span>"
+      "Our Recommended Profile",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extensions</span>"
     ]
   },
   {
-    "objectID": "configuration.html",
-    "href": "configuration.html",
-    "title": "5  IQSS Configuration",
+    "objectID": "settings.html",
+    "href": "settings.html",
+    "title": "5  Settings",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
-      "Installation",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>IQSS Configuration</span>"
+      "Our Recommended Profile",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Settings</span>"
     ]
   },
   {
-    "objectID": "install_packages.html",
-    "href": "install_packages.html",
-    "title": "6  Install Emacs Packages",
+    "objectID": "shortcuts.html",
+    "href": "shortcuts.html",
+    "title": "6  Keyboard Shortcuts",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
-      "Opening Emacs for the First Time",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Install Emacs Packages</span>"
+      "Our Recommended Profile",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Keyboard Shortcuts</span>"
     ]
   },
   {
-    "objectID": "copilot_login.html",
-    "href": "copilot_login.html",
-    "title": "7  Copilot",
+    "objectID": "customizing.html",
+    "href": "customizing.html",
+    "title": "7  Customizing Your Own Configuration",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
-      "Opening Emacs for the First Time",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Copilot</span>"
+      "Customizing Your Own VSCode",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Customizing Your Own Configuration</span>"
     ]
   },
   {
-    "objectID": "tutorial.html",
-    "href": "tutorial.html",
-    "title": "8  Emacs Tutorial",
+    "objectID": "profiles.html",
+    "href": "profiles.html",
+    "title": "8  Managing Profiles",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emacs Tutorial</span>"
-    ]
-  },
-  {
-    "objectID": "important_keys.html",
-    "href": "important_keys.html",
-    "title": "9  Important Keys",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Important Keys</span>"
-    ]
-  },
-  {
-    "objectID": "layout.html",
-    "href": "layout.html",
-    "title": "10  Layout",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Layout</span>"
-    ]
-  },
-  {
-    "objectID": "creating.html",
-    "href": "creating.html",
-    "title": "11  Creating and Setting Up Documents",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Creating and Setting Up Documents</span>"
-    ]
-  },
-  {
-    "objectID": "moving.html",
-    "href": "moving.html",
-    "title": "12  Moving Around Your Document",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Moving Around Your Document</span>"
-    ]
-  },
-  {
-    "objectID": "editing.html",
-    "href": "editing.html",
-    "title": "13  Editing Your Document",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Editing Your Document</span>"
-    ]
-  },
-  {
-    "objectID": "saving.html",
-    "href": "saving.html",
-    "title": "14  Saving and Compiling Your Document",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Getting Started",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Saving and Compiling Your Document</span>"
-    ]
-  },
-  {
-    "objectID": "problems.html",
-    "href": "problems.html",
-    "title": "15  Common Problems",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Hazards",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Common Problems</span>"
-    ]
-  },
-  {
-    "objectID": "commands.html",
-    "href": "commands.html",
-    "title": "16  Commands List",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Commands List</span>"
-    ]
-  },
-  {
-    "objectID": "glossary.html",
-    "href": "glossary.html",
-    "title": "17  Glossary of Key Terms",
-    "section": "",
-    "text": "TO DO TO DO",
-    "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Glossary of Key Terms</span>"
+      "Customizing Your Own VSCode",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Managing Profiles</span>"
     ]
   },
   {
     "objectID": "external_res.html",
     "href": "external_res.html",
-    "title": "18  External Resources",
+    "title": "9  External Resources",
     "section": "",
     "text": "TO DO TO DO",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>External Resources</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>External Resources</span>"
     ]
   }
 ]
