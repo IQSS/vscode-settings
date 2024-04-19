@@ -58,7 +58,7 @@
     "href": "settings.html",
     "title": "5  Settings",
     "section": "",
-    "text": "TO DO TO DO",
+    "text": "We’ve added quite a few non-default settings, which will be automatically configured with this profile. Again, you might not like all of these — feel free to remove these from your settings.json file.\nHere is a list of some of these settings:\n\nAdditional LaTeX recipes:\n\nxelatex+ and pdflatex+ will actually build the accompanying files many times underneath the hood in order to make sure that your bibliography citations correspond correctly.\n\nLaTeX outline view will include the sections: part, chapter, section, subsection, subsubsection, and paragraph.\nWord wrapping",
     "crumbs": [
       "Our Recommended Profile",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Settings</span>"
