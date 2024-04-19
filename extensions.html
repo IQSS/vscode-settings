@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -247,7 +276,102 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>TO DO TO DO</p>
+<p>There are <em>a lot</em> of extensions available in VSCode. You can always install more extensions that we have! We’ve included some that we find make coding in <span class="math inline">\(\LaTeX\)</span> much easier. These include:</p>
+<ul>
+<li><strong>Azure Repos</strong>:
+<ul>
+<li>Dependency for GitHub extensions.</li>
+</ul></li>
+<li><strong>Better Comments</strong>:
+<ul>
+<li>Color codes types of comments with symbols at the beginning of each. For example, there are:
+<ul>
+<li>“*” for highlighting a comment (green)</li>
+<li>“!” for an alert (red)</li>
+<li>“?” for a question (blue)</li>
+<li>“TODO” for a to-do (orange)</li>
+<li>“//” for a strikethrough</li>
+</ul></li>
+<li>You can also customize your own.</li>
+</ul></li>
+<li><strong>GitHub Copilot</strong>:
+<ul>
+<li>In-line suggestions: Copilot will anticipate what you are about to type. You can accept these suggestions, or keep typing.</li>
+</ul></li>
+<li><strong>GitHub Copilot Chat</strong>:
+<ul>
+<li>In-line chat: You can use Cmd+I to start an inline chat, where you can ask Copilot to do something for you. One of my favorites is to ask Copilot “Can you write me the outline of a LaTeX document?”</li>
+<li>Side chat: You can open up a side-pane for a continuous chat with Copilot, much like Chat-GPT. You can ask Copilot to explain things to you, or to make suggestions.</li>
+</ul></li>
+<li><strong>GitHub Pull Requests and Issues</strong>:
+<ul>
+<li>Allows for a smoother integration of GitHub into VSCode.</li>
+</ul></li>
+<li><strong>GitHub Repositories</strong>:
+<ul>
+<li>Another extension which helps to integrate your repositories into VSCode.</li>
+</ul></li>
+<li><strong>indent-rainbow</strong>:
+<ul>
+<li>Highlights vertically along indents, allowing you to see the different levels of structure in your code.</li>
+</ul></li>
+<li><strong>LaTeX Utilities</strong>:
+<ul>
+<li>Extension pack for LaTeX Workshop. Includes quicker paste options, live snippets, and word count.</li>
+</ul></li>
+<li><strong>LaTeX Workshop</strong>:
+<ul>
+<li>Includes many features, including snippets, shortcuts, and pdf-viewing.</li>
+</ul></li>
+<li><strong>Live Preview</strong>:
+<ul>
+<li>Allows you to see HTML previews inside VSCode.</li>
+</ul></li>
+<li><strong>LTeX - LanguageTool grammar/spell checking</strong>:
+<ul>
+<li>Underlines potential spelling and grammar mistakes.</li>
+</ul></li>
+<li><strong>Path Autocomplete</strong>:
+<ul>
+<li>Autocompletes paths for files inside your repository.</li>
+</ul></li>
+<li><strong>R</strong>:
+<ul>
+<li>Allows you to use R in VSCode, with snippets and various viewer options.</li>
+</ul></li>
+<li><strong>R Debugger</strong>:
+<ul>
+<li>Integrates the debugging process for R into VSCode.</li>
+</ul></li>
+<li><strong>Rainbow CSV</strong>:
+<ul>
+<li>If you view a CSV file inside VSCode, each variable will be color-coded (for easier viewing)</li>
+</ul></li>
+<li><strong>Remote Repositories</strong>:
+<ul>
+<li>Dependency for GitHub extensions.</li>
+</ul></li>
+<li><strong>Settings Cycler</strong>:
+<ul>
+<li>Necessary for using special keyboard shortcuts to toggle settings on/off.</li>
+</ul></li>
+<li><strong>Toggle</strong>:
+<ul>
+<li>Necessary for using special keyboard shortcuts to toggle settings on/off.</li>
+</ul></li>
+<li><strong>vscode-icons</strong>:
+<ul>
+<li>Includes additional graphic icons for file types, etc., inside VSCode.</li>
+</ul></li>
+<li><strong>Word Count</strong>:
+<ul>
+<li>Provides additional word count support for markdown documents.</li>
+</ul></li>
+<li><strong>Zotero LaTeX</strong>:
+<ul>
+<li>Allows for more smooth integration for Zotero in LaTeX documents.</li>
+</ul></li>
+</ul>
 
 
 
