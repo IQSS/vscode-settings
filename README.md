@@ -129,7 +129,7 @@ We've also added a few keyboard shortcuts. You can remove these from your keybin
 
 ## 3. Recommended Dependencies
 * GitHub:
-  * We recommend using GitHub. If you do not already have a GitHub account, we recommend following the [instructions about GitHub from Matt Blackwell](https://gov51.mattblackwell.org/assignments/00-r-intro/).
+  * We recommend using GitHub. If you do not already have a GitHub account, we recommend following the [instructions from GitHub](https://docs.github.com/en/get-started).
 * Copilot:
   * One of the main benefits of VSCode is its integration with GitHub Copilot, an AI pair programmer which helps you to more effectively and quickly write code.
   * Please use [these instructions](https://docs.github.com/en/copilot/quickstart) for setting up your GitHub Copilot account.
