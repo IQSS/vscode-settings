@@ -1,3 +1,0 @@
-# Install Emacs Packages {.sec-opening}
-
-TO DO TO DO
