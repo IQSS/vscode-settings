@@ -69,7 +69,7 @@
     "href": "shortcuts.html",
     "title": "6  Keyboard Shortcuts",
     "section": "",
-    "text": "TO DO TO DO",
+    "text": "We’ve also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them.\n\n“Option+Command+y”: Will show you all of your built-in LaTeX recipes.\n“Shift+Option+b”: When you are inside a .tex file, this will open the accompanying output PDF in an external viewer. We recommend using Skim, which you can set up with sync so that it will refresh whenever you save/build the .tex file.\n“Option+Command+f”: When you are typing, this will toggle on/off whether inline suggestons will appear. Once you toggle on/off, you need to continue typing to see the change take effect.\n“Option+Command+h”: When you have text highlighted, this will toggle on/off whether repeat occurrences of that word will also be highlighted.\n“Option+Command+q”: When you are typing, this will toggle on/off whether dropdown spelling suggestions will appear.",
     "crumbs": [
       "Our Recommended Profile",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Keyboard Shortcuts</span>"
