@@ -1,3 +1,7 @@
 # External Resources {.sec-resources}
 
-TO DO TO DO
+Resources include VSCode's [introduction page](https://code.visualstudio.com/docs/introvideos/basics), [documentation](https://code.visualstudio.com/docs), and [tips and tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks).
+
+Additional resources include various [YouTube tutorials](https://www.youtube.com/results?search_query=using+vscode+for+latex) or online guides, such as [Jia Jia's Fast Guide on Writing LaTeX with LaTeX Workshop in VS Code](https://mathjiajia.github.io/vscode-and-latex/).
+
+Lastly, Google is your best friend! If you want to do something, googling how to do it is your best go-to. Sites like [Stack Overflow](https://stackoverflow.com/questions/tagged/visual-studio-code), [Reddit](https://www.reddit.com/r/vscode/), and [Quora](https://www.quora.com/) all have active user communities that ask questions and support each other.
