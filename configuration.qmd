@@ -14,3 +14,9 @@ To import our recommended profile:
 Now the settings icon should have a short descriptor bubble attached, e.g. "IQ", and if you click on it, you should see that it now says "Profiles (*Profile Name*)", such as "Profiles (IQSS Rec)"
 
 Congrats, you've imported our recommended profile!
+
+This includes:
+
+* **extensions**, which will automatically install for you. You can access these by clicking the extensions icon on the left-hand toolbar, which has three squares in an L shape with an additional square that is separated at the top right corner.
+* **settings.json**, which you can access by clicking the settings icon, selecting Settings, and then clicking the "Open Setting (JSON)" icon in the file toolbar, which looks like a piece of paper with a curved arrow.
+* **keybindings.json**, which you can access by clicking the settings icon, selecting Keyboard Shortcuts, and then clicking the "Open Keyboard Shortcuts (JSON)" icon in the file toolbar, which looks like a piece of paper with a curved arrow.
