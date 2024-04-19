@@ -14,7 +14,7 @@
     "href": "application.html",
     "title": "1  VSCode Application",
     "section": "",
-    "text": "Visual Studio Code has instructions for getting started.\nYou can download VSCode directly from their website for your operating system.\nUnzip the download (mine was called “VSCode-darwin-universal.zip), and then click on the new application (Visual Studio Code). A pop-up will ask you if you want to open an app downloaded from the internet. Click open.",
+    "text": "Visual Studio Code has instructions for getting started.\nYou can download VSCode directly from their website for your operating system.\nUnzip the download (mine was called “VSCode-darwin-universal.zip”), and then click on the new application (Visual Studio Code). A pop-up will ask you if you want to open an app downloaded from the internet. Click open.",
     "crumbs": [
       "Installation",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>VSCode Application</span>"
